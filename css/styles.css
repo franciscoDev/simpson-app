@@ -1,3 +1,4 @@
+/*avoid show brackets before render components 'vue'*/
 [v-cloak]{
     display: none;
 } 
